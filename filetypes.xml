@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="eot" type="Native" />
+      <mapping ext="woff2" type="Native" />
+    </extensionMap>
+  </component>
+</application>
