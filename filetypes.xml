@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="eot" type="Native" />
       <mapping ext="woff2" type="Native" />
+      <mapping ext="ttf" type="Native" />
     </extensionMap>
   </component>
 </application>
