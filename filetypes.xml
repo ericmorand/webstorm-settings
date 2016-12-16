@@ -4,7 +4,6 @@
       <mapping ext="eot" type="Native" />
       <mapping ext="woff2" type="Native" />
       <mapping ext="ttf" type="Native" />
-      <mapping ext="twig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
