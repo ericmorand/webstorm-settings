@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[rtl-sass] - .../test/api/declaration-1-to-4-corner/expected.css'" />
     <option name="defaultScopeName" value="File '[rtl-sass] - .../test/api/declaration-1-to-4-corner/expected.css'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[rtl-sass] - .../test/api/declaration-1-to-4-corner/expected.css'" />
   </component>
 </application>
