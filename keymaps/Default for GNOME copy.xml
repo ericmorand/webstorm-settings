@@ -2,5 +2,4 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="EditorDeleteLine" />
 </keymap>
