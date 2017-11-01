@@ -1,5 +1,0 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="ctrl y" />
-  </action>
-</keymap>
