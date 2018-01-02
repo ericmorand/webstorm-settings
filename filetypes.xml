@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="ds" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
