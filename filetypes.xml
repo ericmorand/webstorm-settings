@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ds" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="urlencode" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
