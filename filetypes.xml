@@ -4,6 +4,7 @@
       <mapping ext="ds" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="magic-call-stucb" type="PLAIN_TEXT" />
+      <mapping pattern="index3" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
