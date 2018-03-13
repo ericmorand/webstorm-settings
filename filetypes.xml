@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".nycrc" type="JSON" />
       <mapping ext="ds" type="JavaScript" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
