@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <codeStyleSettings language="Twig">
-    <option name="RIGHT_MARGIN" value="0" />
+    <option name="RIGHT_MARGIN" value="360" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
