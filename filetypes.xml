@@ -14,6 +14,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="font" type="PLAIN_TEXT" />
       <mapping ext="phar" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
