@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="prop" value="/**&#10; * @var $type$&#10; */&#10;this._$name$ = null;&#10;&#10;/**&#10; * @param {$type$} data&#10; */&#10;set $name$(data) {&#10;   this._$name$ = data;&#10;}&#10; &#10;/**&#10; * @return {$type$}&#10; */&#10;get $name$() {&#10;    return this._$name$;&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
