@@ -19,6 +19,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="font" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="scssfont" type="SCSS" />
       <mapping ext="fyml" type="YAML" />
     </extensionMap>
   </component>
