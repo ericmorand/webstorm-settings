@@ -7,6 +7,7 @@
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping pattern="urlencode" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping pattern="Context" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
